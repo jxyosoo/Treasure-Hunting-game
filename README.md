@@ -1,0 +1,1 @@
+Within the src, is a basic Treasue Hunting game in java. This game took over a week to make and came out just how I expected. I used some sprites and maps that I found online. This game was used as a final project for a college class. 
